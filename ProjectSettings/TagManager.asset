@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - isRoad
+  - isSuppoterGuardia
+  - isSoldier
+  - Camera2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerBullet
+  - Enemy
+  - Background
+  - Base
+  - TowerSensor
+  - SuppoterMineOnRoad
+  - isHero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Loading"
+    uniqueID: 552770853
+    locked: 0
+  - name: "Laser"
+    uniqueID: 2993622585
+    locked: 0
+  - name: "Default"
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,27 @@
+id,pack_name,gem_value (to add),coin_value (to add),value (to add),price_gem,price_dollar,key_store,kind_of_shop,content
+gem_pack_1,GEM PACK 1,500,,,,0.99,id_gem_pack_1,iap,
+gem_pack_2,GEM PACK 2,1520,,,,2.99,id_gem_pack_2,iap,
+gem_pack_3,GEM PACK 3,3100,,,,5.99,id_gem_pack_3,iap,
+gem_pack_4,GEM PACK 4,7800,,,,14.99,id_gem_pack_4,iap,
+gem_pack_5,GEM PACK 5,15750,,,,29.99,id_gem_pack_5,iap,
+gem_pack_6,GEM PACK 6,26200,,,,49.99,id_gem_pack_6,iap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+coin_pack_1,COIN PACK 1,,300,,10,,,shop coin,
+coin_pack_2,COIN PACK 2,,500,,15,,,shop coin,
+coin_pack_3,COIN PACK 3,,660,,20,,,shop coin,
+coin_pack_4,COIN PACK 4,,1000,,30,,,shop coin,
+coin_pack_5,COIN PACK 5,,1600,,50,,,shop coin,
+coin_pack_6,COIN PACK 6,,2500,,70,,,shop coin,
+,,,,,,,,,
+skill_guardian,REINCEMENT,,,1,90,,,shop skill,Some mercenaries help you destroy the enemy.
+skill_freeze,THE POWER OF FOSRT,,,1,60,,,shop skill,Freeze enemies in a little time.
+skill_fire_of_lord,THE LORD'S FIRE,,,1,80,,,shop skill,Destroy the enemy with the fire of the Lord.
+skill_mine_on_road,MINES ON THE ROAD,,,1,70,,,shop skill,Destroy enemies with mines on the road
+skill_poison,TOXIC MUD,,,1,60,,,shop skill,Reducing enemy's blood for a period of time
+,,,,,,,,,
+tower_poison,TOWER POISON,,,,,1.99,id_tower_poison,iap,
+tower_rocket_laucher,ROCKET LAUCHER,,,,,1.99,id_tower_rocket_laucher,iap,
+tower_thunder,TOWER THUNDER,,,,,1.99,id_tower_thunder,iap,

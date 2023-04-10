@@ -1,0 +1,43 @@
+Id,Name,content,melee_damage,damage,speedOfShooting (s),range,TimeOfTranning,HP,can_kill_infantry,can_skill_airforce,price to build,price (price of upgrade),sell (coin to get),level_unlock,speed_move,price_to_unlock,number_of_bullet,,,,,comment
+tower_magic_level_1,MAGE'S TOWER,Level 1 - Attack both infantry and air force - With fireballs,,20,3,3,,,yes,yes,60,72,30,0,,0,1,,,,,melee: can chien
+tower_magic_level_2,MAGE'S TOWER,Level 2 - Attack both infantry and air force - With fireballs,,25,2,3.5,,,yes,yes,132,108,66,0,,0,1,,,,,arrow_damage: sat thuong tu xa
+tower_magic_level_3,MAGE'S TOWER,Level 3 - Attack both infantry and air force - With fireballs,,30,1.5,4,,,yes,yes,240,153,120,0,,0,1,,,,,infantry: bo binh
+tower_magic_level_4,MAGE'S TOWER,Level 4 - Attack both infantry and air force - With fireballs,,35,1.2,4.5,,,yes,yes,393,0,197,0,,0,1,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+tower_archer_level_1,ARCHER TOWER,Level 1 - Attack both infantry and air force - With 1 arrow.,,20,1.5,3,,,yes,yes,100,60,50,0,,0,1,,,,,
+tower_archer_level_2,ARCHER TOWER,Level 2 - Attack both infantry and air force - With 1 arrow.,,25,1.2,3.5,,,yes,yes,160,189,80,0,,0,1,,,,,
+tower_archer_level_3,ARCHER TOWER,Level 3 - Attack both infantry and air force - With 3 arrows.,,10,0.75,4,,,yes,yes,349,310,175,0,,0,3,,,,,
+tower_archer_level_4,ARCHER TOWER,Level 4 - Attack both infantry and air force - With 3 arrows.,,12,0.5,4.5,,,yes,yes,659,0,330,0,,0,3,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+tower_cannonner_level_1,CANNONER,Level 1 - Throw at all enemies many stone balls.,,20,3,3,,,yes,yes,60,72,30,0,,0,1,,,,,
+tower_cannonner_level_2,CANNONER,Level 2 - Throw at all enemies many stone balls.,,25,2,3.5,,,yes,yes,132,108,66,0,,0,1,,,,,
+tower_cannonner_level_3,CANNONER,Level 3 - Throw at all enemies many stone balls.,,30,1.5,4,,,yes,yes,240,153,120,0,,0,1,,,,,
+tower_cannonner_level_4,CANNONER,Level 4 - Throw at all enemies many stone balls.,,35,1.2,4.5,,,yes,yes,393,0,197,,,0,1,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+tower_soldier_level_1,SOLDIER,Level 1 - ,,4,1,3,,500,yes,no,0,0,,,1,0,1,,,,,damage: sat thuong khi soldier danh quai
+tower_soldier_level_2,SOLDIER,Level 2 - ,,4,1,3,,500,yes,no,0,0,,,1,0,1,,,,,range: pham vi danh
+tower_soldier_level_3,SOLDIER,Level 3 - ,,4,1,3,,500,yes,no,0,0,,,1,0,1,,,,,blood: Mau cua soldier
+tower_soldier_level_4,SOLDIER,Level 4 - ,,4,1,3,,500,yes,no,0,0,,,1,0,1,,,,,defense: Chi so phong thu
+,,,,,,,,,,,,,,,,,,,,,,
+tower_gunmen_level_1,GUNMEN'S TOWER,Level 1 - Destroy enemies very effectively.,,20,2,3,,,yes,yes,90,84,45,0,,0,1,,,,,
+tower_gunmen_level_2,GUNMEN'S TOWER,Level 2 - Destroy enemies very effectively.,,25,1.5,3.5,,,yes,yes,174,126,87,0,,0,1,,,,,
+tower_gunmen_level_3,GUNMEN'S TOWER,Level 3 - Destroy enemies very effectively.,,30,1.2,4,,,yes,yes,300,291,150,0,,0,1,,,,,
+tower_gunmen_level_4,GUNMEN'S TOWER,Level 4 - Destroy enemies very effectively.,,25,0.57,4.5,,,yes,yes,591,0,296,0,,0,1,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+tower_poison_level_1,POSION TOWER,Level 1 - Destroy enemies with deadly poison.,,25,3,3,,,yes,yes,75,84,38,15,,949,1,,,,,
+tower_poison_level_2,POSION TOWER,Level 2 - Destroy enemies with deadly poison.,,30,2,3.5,,,yes,yes,159,90,80,15,,949,1,,,,,
+tower_poison_level_3,POSION TOWER,Level 3 - Destroy enemies with deadly poison.,,35,1.5,4,,,yes,yes,249,231,125,15,,949,1,,,,,
+tower_poison_level_4,POSION TOWER,Level 4 - Destroy enemies with deadly poison.,,40,1.2,4.5,,,yes,yes,450,0,225,15,,949,1,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+tower_rocket_laucher_level_1,ROCKET LAUCHER,Level 1 - The missiles are ready to destroy all enemies.,,20,3,5,,,yes,yes,99,108,50,20,,949,1,,,,,
+tower_rocket_laucher_level_2,ROCKET LAUCHER,Level 2 - The missiles are ready to destroy all enemies.,,25,2,5.5,,,yes,yes,207,333,104,20,,949,1,,,,,
+tower_rocket_laucher_level_3,ROCKET LAUCHER,Level 3 - The missiles are ready to destroy all enemies.,,15,1.5,6,,,yes,yes,540,435,270,20,,949,3,,,,,
+tower_rocket_laucher_level_4,ROCKET LAUCHER,Level 4 - The missiles are ready to destroy all enemies.,,20,1.2,6.5,,,yes,yes,975,0,488,20,,949,3,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+tower_thunder_level_1,THUNDER TOWER,Level 1 - Destroy the enemies of horrifying lightning rays.,,20,2,3,,,yes,yes,90,84,45,25,,949,1,,,,,
+tower_thunder_level_2,THUNDER TOWER,Level 2 - Destroy the enemies of horrifying lightning rays,,25,1.5,3.5,,,yes,yes,174,126,87,25,,949,1,,,,,
+tower_thunder_level_3,THUNDER TOWER,Level 3 - Destroy the enemies of horrifying lightning rays,,30,1.2,4,,,yes,yes,300,330,150,25,,949,1,,,,,
+tower_thunder_level_4,THUNDER TOWER,Level 4 - Destroy the enemies of horrifying lightning rays,,35,0.75,4.5,,,yes,yes,630,0,315,25,,949,1,,,,,

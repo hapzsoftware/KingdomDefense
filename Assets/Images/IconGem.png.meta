@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 5a0a83df32864533b427e1fd2e797733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: IconGem_0
+  - first:
+      213: 21300002
+    second: IconGem_1
+  - first:
+      213: 21300004
+    second: IconGem_2
+  - first:
+      213: 21300006
+    second: IconGem_3
+  - first:
+      213: 21300008
+    second: IconGem_4
+  - first:
+      213: 21300010
+    second: IconGem_5
+  - first:
+      213: 21300012
+    second: IconGem_6
+  - first:
+      213: 21300014
+    second: IconGem_7
+  - first:
+      213: 21300016
+    second: IconGem_8
+  - first:
+      213: 21300018
+    second: IconGem_9
+  - first:
+      213: 21300020
+    second: IconGem_10
+  - first:
+      213: 21300022
+    second: IconGem_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconGem_5
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 616
+        width: 260
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: -73}
+        - {x: -130, y: 44}
+        - {x: -106, y: -94}
+      - - {x: -60, y: 94}
+        - {x: -106, y: -94}
+        - {x: -130, y: 44}
+      - - {x: 69, y: -94}
+        - {x: -106, y: -94}
+        - {x: -60, y: 94}
+      - - {x: 57, y: 94}
+        - {x: 69, y: -94}
+        - {x: -60, y: 94}
+      - - {x: 130, y: 63}
+        - {x: 69, y: -94}
+        - {x: 57, y: 94}
+      - - {x: 130, y: -71}
+        - {x: 69, y: -94}
+        - {x: 130, y: 63}
+      physicsShape:
+      - - {x: 28, y: -68}
+        - {x: 30, y: -69}
+        - {x: 42, y: -54}
+        - {x: 57, y: -54}
+        - {x: 66.99999, y: -49}
+        - {x: 72, y: -51}
+        - {x: 93, y: -46}
+        - {x: 95, y: -47}
+        - {x: 104, y: -37}
+        - {x: 116, y: -22}
+        - {x: 116, y: -16}
+        - {x: 113, y: -9}
+        - {x: 104, y: -6}
+        - {x: 102, y: 1}
+        - {x: 106, y: 29}
+        - {x: 103, y: 30}
+        - {x: 98.99999, y: 31}
+        - {x: 88, y: 35}
+        - {x: 74, y: 45}
+        - {x: 64, y: 47}
+        - {x: 52, y: 46}
+        - {x: 52, y: 60}
+        - {x: 47, y: 64}
+        - {x: 34, y: 66.99999}
+        - {x: 22, y: 78}
+        - {x: 4, y: 78}
+        - {x: -4, y: 76}
+        - {x: -8, y: 72}
+        - {x: -31, y: 66.99999}
+        - {x: -57, y: 55}
+        - {x: -56, y: 47}
+        - {x: -64, y: 44}
+        - {x: -68, y: 39}
+        - {x: -90, y: 35}
+        - {x: -97.99999, y: 28}
+        - {x: -110, y: 26}
+        - {x: -114, y: 20}
+        - {x: -114, y: 15}
+        - {x: -110, y: 12}
+        - {x: -108, y: -9}
+        - {x: -110, y: -17}
+        - {x: -112, y: -39}
+        - {x: -104, y: -46}
+        - {x: -87, y: -57}
+        - {x: -82, y: -57}
+        - {x: -54, y: -54}
+        - {x: -44, y: -48}
+        - {x: -49, y: -61}
+        - {x: -37, y: -72}
+        - {x: -26, y: -77}
+        - {x: -11, y: -77}
+        - {x: 0, y: -76}
+        - {x: 11, y: -71}
+        - {x: 21, y: -61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 604
+        width: 184
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: -72}
+        - {x: -92, y: 72}
+        - {x: -89, y: -88}
+      - - {x: -53, y: 88}
+        - {x: -89, y: -88}
+        - {x: -92, y: 72}
+      - - {x: 11, y: -88}
+        - {x: -89, y: -88}
+        - {x: -53, y: 88}
+      - - {x: 20, y: 88}
+        - {x: 11, y: -88}
+        - {x: -53, y: 88}
+      - - {x: 92, y: -36}
+        - {x: 11, y: -88}
+        - {x: 20, y: 88}
+      - - {x: 72, y: 79}
+        - {x: 92, y: -36}
+        - {x: 20, y: 88}
+      - - {x: 92, y: 73}
+        - {x: 92, y: -36}
+        - {x: 72, y: 79}
+      physicsShape:
+      - - {x: 22, y: -30}
+        - {x: 33, y: -40}
+        - {x: 44, y: -25}
+        - {x: 64, y: -20}
+        - {x: 77, y: -11}
+        - {x: 72.99999, y: 23}
+        - {x: 77, y: 25}
+        - {x: 77, y: 36}
+        - {x: 72.99999, y: 53}
+        - {x: 66, y: 58}
+        - {x: 33, y: 58}
+        - {x: 21, y: 50}
+        - {x: 14, y: 66}
+        - {x: 7, y: 71}
+        - {x: -25, y: 71}
+        - {x: -49, y: 57}
+        - {x: -64, y: 42}
+        - {x: -75, y: 26}
+        - {x: -75, y: 12}
+        - {x: -72.99999, y: 4}
+        - {x: -62, y: -11}
+        - {x: -72.99999, y: -21}
+        - {x: -72, y: -24}
+        - {x: -69, y: -41}
+        - {x: -50, y: -68}
+        - {x: -42, y: -70}
+        - {x: -24, y: -72}
+        - {x: -22, y: -72}
+        - {x: -11, y: -59}
+        - {x: 13, y: -51}
+        - {x: 20, y: -45}
+        - {x: 47, y: 49}
+        - {x: 43, y: 49}
+        - {x: 61, y: 48}
+        - {x: -12, y: 63}
+        - {x: 3, y: 63}
+        - {x: 3, y: 60}
+        - {x: -4, y: 61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52.07612
+        width: 248
+        height: 195.8477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -92}
+        - {x: -124, y: -14}
+        - {x: -120, y: -98}
+      - - {x: -107, y: 45}
+        - {x: -120, y: -98}
+        - {x: -124, y: -14}
+      - - {x: 124, y: -98}
+        - {x: -120, y: -98}
+        - {x: -107, y: 45}
+      - - {x: -17, y: 98}
+        - {x: 124, y: -98}
+        - {x: -107, y: 45}
+      - - {x: 110, y: 98}
+        - {x: 124, y: -98}
+        - {x: -17, y: 98}
+      - - {x: 124, y: 52}
+        - {x: 124, y: -98}
+        - {x: 110, y: 98}
+      physicsShape:
+      - - {x: -22, y: -79}
+        - {x: -5, y: -68}
+        - {x: -3, y: -59}
+        - {x: 8, y: -72.99999}
+        - {x: 9.999999, y: -76}
+        - {x: 23, y: -74}
+        - {x: 28, y: -79}
+        - {x: 40, y: -79}
+        - {x: 46, y: -78}
+        - {x: 49, y: -71}
+        - {x: 62, y: -79}
+        - {x: 66.99999, y: -79}
+        - {x: 88, y: -76}
+        - {x: 94, y: -68}
+        - {x: 108, y: -49}
+        - {x: 108, y: -29}
+        - {x: 107, y: -25}
+        - {x: 108, y: -9.999999}
+        - {x: 108, y: 13}
+        - {x: 103, y: 32}
+        - {x: 93, y: 37}
+        - {x: 79, y: 40}
+        - {x: 76, y: 59}
+        - {x: 72, y: 72.99999}
+        - {x: 64, y: 79}
+        - {x: 27, y: 79}
+        - {x: 21, y: 78}
+        - {x: 8, y: 69}
+        - {x: -9, y: 62}
+        - {x: -15, y: 36}
+        - {x: -46, y: 37}
+        - {x: -54, y: 31}
+        - {x: -76, y: 21}
+        - {x: -79, y: 18}
+        - {x: -87, y: -12}
+        - {x: -102, y: -23}
+        - {x: -108, y: -37}
+        - {x: -108, y: -54}
+        - {x: -100, y: -71}
+        - {x: -82, y: -79}
+        - {x: -59, y: -79}
+        - {x: -50, y: -72}
+        - {x: -40, y: -77}
+        - {x: -26, y: -79}
+        - {x: -66, y: -57}
+        - {x: -66.99999, y: -57}
+        - {x: -66.99999, y: -61}
+        - {x: -66, y: -60}
+        - {x: 35, y: -59}
+        - {x: 35, y: -57}
+        - {x: 34, y: -57}
+        - {x: 34, y: -60}
+        - {x: 5, y: -16}
+        - {x: 4, y: -14}
+        - {x: 4, y: -18}
+        - {x: 74, y: 24}
+        - {x: 74, y: 28}
+        - {x: 89, y: 28}
+        - {x: 89, y: 23}
+        - {x: -32, y: 28}
+        - {x: -21, y: 27}
+        - {x: -23, y: 24}
+        - {x: -34, y: 25}
+        - {x: 41, y: 66.99999}
+        - {x: 37, y: 69}
+        - {x: 41, y: 71}
+        - {x: 54, y: 66}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 304.0761
+        width: 215.9239
+        height: 187.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.9619, y: -52.03805}
+        - {x: -107.9619, y: 37.96195}
+        - {x: -52.96194, y: -94.03805}
+      - - {x: -105.9619, y: 54.96195}
+        - {x: -52.96194, y: -94.03805}
+        - {x: -107.9619, y: 37.96195}
+      - - {x: -68.96194, y: 74.96195}
+        - {x: -52.96194, y: -94.03805}
+        - {x: -105.9619, y: 54.96195}
+      - - {x: -36.96194, y: 85.96195}
+        - {x: -52.96194, y: -94.03805}
+        - {x: -68.96194, y: 74.96195}
+      - - {x: 18.03806, y: -94.03805}
+        - {x: -52.96194, y: -94.03805}
+        - {x: -36.96194, y: 85.96195}
+      - - {x: -5.961943, y: 93.96195}
+        - {x: 18.03806, y: -94.03805}
+        - {x: -36.96194, y: 85.96195}
+      - - {x: 87.03806, y: 93.96195}
+        - {x: 18.03806, y: -94.03805}
+        - {x: -5.961943, y: 93.96195}
+      - - {x: 108.0381, y: -68.03805}
+        - {x: 18.03806, y: -94.03805}
+        - {x: 87.03806, y: 93.96195}
+      - - {x: 108.0381, y: 48.96195}
+        - {x: 108.0381, y: -68.03805}
+        - {x: 87.03806, y: 93.96195}
+      physicsShape:
+      - - {x: 30.03806, y: -51.03805}
+        - {x: 35.03806, y: -44.03805}
+        - {x: 58.03806, y: -43.03805}
+        - {x: 73.03805, y: -36.03805}
+        - {x: 81.03806, y: -29.03805}
+        - {x: 89.03806, y: -18.03805}
+        - {x: 89.03806, y: 7.96195}
+        - {x: 81.03806, y: 16.96195}
+        - {x: 82.03806, y: 46.96195}
+        - {x: 75.03806, y: 62.96195}
+        - {x: 61.03806, y: 73.96195}
+        - {x: 54.03805, y: 77.96195}
+        - {x: 36.03806, y: 77.96195}
+        - {x: 18.03806, y: 69.96195}
+        - {x: 3.038057, y: 56.96195}
+        - {x: -10.96194, y: 66.96194}
+        - {x: -29.96194, y: 65.96195}
+        - {x: -43.96194, y: 61.96195}
+        - {x: -60.96194, y: 51.96195}
+        - {x: -72.96194, y: 41.96195}
+        - {x: -89.96194, y: 15.96195}
+        - {x: -92.96194, y: 0.9619498}
+        - {x: -92.96194, y: -19.03805}
+        - {x: -87.96194, y: -32.03805}
+        - {x: -72.96194, y: -47.03805}
+        - {x: -40.96194, y: -63.03805}
+        - {x: -27.96194, y: -74.03805}
+        - {x: -19.96194, y: -75.03805}
+        - {x: -1.961943, y: -75.03805}
+        - {x: 6.038057, y: -71.03805}
+        - {x: 14.03806, y: -66.03805}
+        - {x: 18.03806, y: -62.03805}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 808
+        width: 196
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: -40}
+        - {x: -98, y: 42}
+        - {x: -96, y: -51}
+      - - {x: -43, y: 100}
+        - {x: -96, y: -51}
+        - {x: -98, y: 42}
+      - - {x: -75, y: -100}
+        - {x: -96, y: -51}
+        - {x: -43, y: 100}
+      - - {x: 73, y: -100}
+        - {x: -75, y: -100}
+        - {x: -43, y: 100}
+      - - {x: 90, y: 100}
+        - {x: 73, y: -100}
+        - {x: -43, y: 100}
+      - - {x: 98, y: -97}
+        - {x: 73, y: -100}
+        - {x: 90, y: 100}
+      - - {x: 98, y: 96}
+        - {x: 98, y: -97}
+        - {x: 90, y: 100}
+      physicsShape:
+      - - {x: 79, y: -35}
+        - {x: 79, y: -11}
+        - {x: 76, y: 14}
+        - {x: 82, y: 27}
+        - {x: 82, y: 40}
+        - {x: 79, y: 56}
+        - {x: 72.99999, y: 72.99999}
+        - {x: 69, y: 78}
+        - {x: 64, y: 81}
+        - {x: 40, y: 83}
+        - {x: 14, y: 83}
+        - {x: 1, y: 78}
+        - {x: -2, y: 70}
+        - {x: -17, y: 69}
+        - {x: -35, y: 59}
+        - {x: -44, y: 35}
+        - {x: -62, y: 25}
+        - {x: -69, y: 9.999999}
+        - {x: -81, y: 6}
+        - {x: -81, y: -5}
+        - {x: -75, y: -15}
+        - {x: -78, y: -33}
+        - {x: -55, y: -45}
+        - {x: -54, y: -51}
+        - {x: -38, y: -81}
+        - {x: -34, y: -81}
+        - {x: -15, y: -68}
+        - {x: -1, y: -84}
+        - {x: 6, y: -84}
+        - {x: 24, y: -63}
+        - {x: 59, y: -52}
+        - {x: 78, y: -41}
+        - {x: -56, y: -3}
+        - {x: -56, y: -1}
+        - {x: -57, y: 0}
+        - {x: -57, y: -1}
+        - {x: -56, y: -2}
+        - {x: -52, y: -3}
+        - {x: -52, y: -2}
+        - {x: -53, y: -3}
+        - {x: -55, y: -3}
+        - {x: -58, y: -5}
+        - {x: -63, y: -7}
+        - {x: -61, y: -8}
+        - {x: 27, y: 66}
+        - {x: 31, y: 72.99999}
+        - {x: 58, y: 72.99999}
+        - {x: 58, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 248
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -61}
+        - {x: -124, y: 69}
+        - {x: -96, y: -108}
+      - - {x: -123, y: 75}
+        - {x: -96, y: -108}
+        - {x: -124, y: 69}
+      - - {x: -65, y: 108}
+        - {x: -96, y: -108}
+        - {x: -123, y: 75}
+      - - {x: 75, y: -108}
+        - {x: -96, y: -108}
+        - {x: -65, y: 108}
+      - - {x: 51, y: 108}
+        - {x: 75, y: -108}
+        - {x: -65, y: 108}
+      - - {x: 109, y: 97}
+        - {x: 75, y: -108}
+        - {x: 51, y: 108}
+      - - {x: 119, y: -79}
+        - {x: 75, y: -108}
+        - {x: 109, y: 97}
+      - - {x: 124, y: 61}
+        - {x: 119, y: -79}
+        - {x: 109, y: 97}
+      - - {x: 124, y: -56}
+        - {x: 119, y: -79}
+        - {x: 124, y: 61}
+      physicsShape:
+      - - {x: 42, y: -66}
+        - {x: 53, y: -60}
+        - {x: 58, y: -52}
+        - {x: 64, y: -54}
+        - {x: 83, y: -54}
+        - {x: 93, y: -49}
+        - {x: 102, y: -37}
+        - {x: 104, y: -12}
+        - {x: 107, y: -5}
+        - {x: 107, y: 9}
+        - {x: 97.99999, y: 21}
+        - {x: 95, y: 22}
+        - {x: 79, y: 21}
+        - {x: 82, y: 60}
+        - {x: 87, y: 66.99999}
+        - {x: 85, y: 76}
+        - {x: 22, y: 90}
+        - {x: 18, y: 91.99999}
+        - {x: -7, y: 91.99999}
+        - {x: -20, y: 91}
+        - {x: -43, y: 76}
+        - {x: -74, y: 64}
+        - {x: -77, y: 61}
+        - {x: -74, y: 51}
+        - {x: -68, y: 39}
+        - {x: -79.99999, y: 39}
+        - {x: -91, y: 37}
+        - {x: -105, y: 25}
+        - {x: -108, y: 16}
+        - {x: -108, y: 9}
+        - {x: -107, y: -8}
+        - {x: -101, y: -16}
+        - {x: -90, y: -17}
+        - {x: -90, y: -23}
+        - {x: -89, y: -29}
+        - {x: -72.99999, y: -32}
+        - {x: -74, y: -38}
+        - {x: -78, y: -48}
+        - {x: -78, y: -60}
+        - {x: -77, y: -64}
+        - {x: -71, y: -72.99999}
+        - {x: -66.99999, y: -81}
+        - {x: -59, y: -89}
+        - {x: -44, y: -89}
+        - {x: -39, y: -91.99999}
+        - {x: -31, y: -91.99999}
+        - {x: -23, y: -90}
+        - {x: 11, y: -90}
+        - {x: 21, y: -87}
+        - {x: 35, y: -69}
+        - {x: -34, y: -68}
+        - {x: -34, y: -71}
+        - {x: -35, y: -72}
+        - {x: -34, y: -72}
+        - {x: -74, y: -9}
+        - {x: -76, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 608
+        width: 184
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: -57}
+        - {x: -92, y: 67}
+        - {x: -34, y: -94}
+      - - {x: -69, y: 94}
+        - {x: -34, y: -94}
+        - {x: -92, y: 67}
+      - - {x: 70, y: 94}
+        - {x: -34, y: -94}
+        - {x: -69, y: 94}
+      - - {x: 92, y: -94}
+        - {x: -34, y: -94}
+        - {x: 70, y: 94}
+      - - {x: 92, y: 79}
+        - {x: 92, y: -94}
+        - {x: 70, y: 94}
+      physicsShape:
+      - - {x: 72, y: -20}
+        - {x: 76, y: -20}
+        - {x: 76, y: 0}
+        - {x: 68, y: 12}
+        - {x: 56, y: 23}
+        - {x: 62, y: 49}
+        - {x: 59, y: 57}
+        - {x: 30, y: 63}
+        - {x: 29, y: 68}
+        - {x: 23, y: 76}
+        - {x: -3, y: 76}
+        - {x: -9.999999, y: 75}
+        - {x: -26, y: 65}
+        - {x: -45, y: 62}
+        - {x: -53, y: 55}
+        - {x: -75, y: 49}
+        - {x: -75, y: 33}
+        - {x: -69, y: 27}
+        - {x: -66.99999, y: 11}
+        - {x: -69, y: -4}
+        - {x: -63, y: -17}
+        - {x: -71, y: -22}
+        - {x: -72, y: -30}
+        - {x: -40, y: -55}
+        - {x: -31, y: -53}
+        - {x: -29, y: -45}
+        - {x: -14, y: -52}
+        - {x: 9.999999, y: -79.99999}
+        - {x: 21, y: -74}
+        - {x: 31, y: -81}
+        - {x: 34, y: -81}
+        - {x: 44, y: -68}
+        - {x: 66, y: -62}
+        - {x: 75, y: -54}
+        - {x: 54, y: 6}
+        - {x: 60, y: 6}
+        - {x: 56, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_0
+      rect:
+        serializedVersion: 2
+        x: 92.07612
+        y: 844
+        width: 167.9239
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.03806, y: -33}
+        - {x: -84.03806, y: 52}
+        - {x: -21.03805, y: -70}
+      - - {x: -31.03805, y: 70}
+        - {x: -21.03805, y: -70}
+        - {x: -84.03806, y: 52}
+      - - {x: 79.96194, y: 70}
+        - {x: -21.03805, y: -70}
+        - {x: -31.03805, y: 70}
+      - - {x: 30.96195, y: -70}
+        - {x: -21.03805, y: -70}
+        - {x: 79.96194, y: 70}
+      - - {x: 77.96194, y: -53}
+        - {x: 30.96195, y: -70}
+        - {x: 79.96194, y: 70}
+      - - {x: 83.96194, y: -26}
+        - {x: 77.96194, y: -53}
+        - {x: 79.96194, y: 70}
+      - - {x: 83.96194, y: 66}
+        - {x: 83.96194, y: -26}
+        - {x: 79.96194, y: 70}
+      physicsShape:
+      - - {x: 44.96194, y: -1}
+        - {x: 66.96194, y: 24}
+        - {x: 67.96194, y: 28}
+        - {x: 57.96194, y: 44}
+        - {x: 50.96194, y: 50}
+        - {x: 40.96194, y: 52}
+        - {x: 20.96195, y: 53}
+        - {x: 5.961946, y: 53}
+        - {x: -10.03805, y: 45}
+        - {x: -18.03805, y: 32}
+        - {x: -48.03806, y: 25}
+        - {x: -61.03806, y: 14}
+        - {x: -66.03806, y: -1}
+        - {x: -66.03806, y: -9}
+        - {x: -57.03806, y: -17}
+        - {x: -31.03805, y: -34}
+        - {x: -18.03805, y: -42}
+        - {x: -13.03805, y: -44}
+        - {x: -6.038054, y: -35}
+        - {x: -0.03805438, y: -43}
+        - {x: 4.961945, y: -53}
+        - {x: 13.96195, y: -53}
+        - {x: 50.96194, y: -37}
+        - {x: 58.96194, y: -31}
+        - {x: 55.96194, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 312
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -156, y: -76}
+        - {x: -156, y: 10}
+        - {x: -77, y: -110}
+      - - {x: -119, y: 114}
+        - {x: -77, y: -110}
+        - {x: -156, y: 10}
+      - - {x: 108, y: 114}
+        - {x: -77, y: -110}
+        - {x: -119, y: 114}
+      - - {x: -47, y: -114}
+        - {x: -77, y: -110}
+        - {x: 108, y: 114}
+      - - {x: 69, y: -114}
+        - {x: -47, y: -114}
+        - {x: 108, y: 114}
+      - - {x: 95, y: -110}
+        - {x: 69, y: -114}
+        - {x: 108, y: 114}
+      - - {x: 155, y: -52}
+        - {x: 95, y: -110}
+        - {x: 108, y: 114}
+      - - {x: 156, y: 48}
+        - {x: 155, y: -52}
+        - {x: 108, y: 114}
+      - - {x: 156, y: -49}
+        - {x: 155, y: -52}
+        - {x: 156, y: 48}
+      physicsShape:
+      - - {x: 76, y: -88}
+        - {x: 84, y: -83}
+        - {x: 90, y: -77}
+        - {x: 89, y: -66.99999}
+        - {x: 100, y: -49}
+        - {x: 105, y: -46}
+        - {x: 121, y: -46}
+        - {x: 129, y: -41}
+        - {x: 135, y: -35}
+        - {x: 134, y: -25}
+        - {x: 137, y: -15}
+        - {x: 139, y: -9.999999}
+        - {x: 139, y: 1}
+        - {x: 132, y: 9}
+        - {x: 129, y: 9.999999}
+        - {x: 118, y: 9}
+        - {x: 124, y: 46}
+        - {x: 120, y: 48}
+        - {x: 72.99999, y: 60}
+        - {x: 64, y: 59}
+        - {x: 49, y: 58}
+        - {x: 44, y: 66}
+        - {x: 48, y: 85}
+        - {x: 44, y: 87}
+        - {x: 1, y: 97.99999}
+        - {x: -28, y: 97.99999}
+        - {x: -41, y: 89}
+        - {x: -68, y: 78}
+        - {x: -69, y: 71}
+        - {x: -63, y: 61}
+        - {x: -70, y: 61}
+        - {x: -83, y: 57}
+        - {x: -91.99999, y: 45}
+        - {x: -91, y: 32}
+        - {x: -90, y: 26}
+        - {x: -119, y: 15}
+        - {x: -120, y: 8}
+        - {x: -115, y: -1}
+        - {x: -129, y: -3}
+        - {x: -134, y: -6}
+        - {x: -142, y: -16}
+        - {x: -142, y: -28}
+        - {x: -141, y: -39}
+        - {x: -127, y: -51}
+        - {x: -118, y: -53}
+        - {x: -113, y: -52}
+        - {x: -107, y: -61}
+        - {x: -94, y: -66.99999}
+        - {x: -83, y: -65}
+        - {x: -77, y: -61}
+        - {x: -62, y: -75}
+        - {x: -55, y: -79.99999}
+        - {x: -49, y: -78}
+        - {x: -35, y: -79}
+        - {x: -30, y: -76}
+        - {x: -12, y: -85}
+        - {x: -3, y: -84}
+        - {x: 5, y: -79.99999}
+        - {x: 22, y: -96}
+        - {x: 27, y: -97}
+        - {x: 33, y: -96}
+        - {x: 47, y: -97}
+        - {x: 56, y: -91}
+        - {x: 60, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 312
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96}
+        - {x: -96, y: 24}
+        - {x: 82, y: -96}
+      - - {x: -65, y: 96}
+        - {x: 82, y: -96}
+        - {x: -96, y: 24}
+      - - {x: 86, y: 96}
+        - {x: 82, y: -96}
+        - {x: -65, y: 96}
+      - - {x: 96, y: -68}
+        - {x: 82, y: -96}
+        - {x: 86, y: 96}
+      - - {x: 96, y: 82}
+        - {x: 96, y: -68}
+        - {x: 86, y: 96}
+      physicsShape:
+      - - {x: 36, y: -76}
+        - {x: 48, y: -74}
+        - {x: 61, y: -61}
+        - {x: 77, y: -38}
+        - {x: 79, y: -25}
+        - {x: 79, y: -1}
+        - {x: 74, y: 15}
+        - {x: 79, y: 28}
+        - {x: 79, y: 39}
+        - {x: 76, y: 53}
+        - {x: 70, y: 59}
+        - {x: 72, y: 72}
+        - {x: 60, y: 79.99999}
+        - {x: 38, y: 81}
+        - {x: 15, y: 81}
+        - {x: 11, y: 79.99999}
+        - {x: 1, y: 78}
+        - {x: -7, y: 69}
+        - {x: -22, y: 65}
+        - {x: -38, y: 57}
+        - {x: -50, y: 18}
+        - {x: -70, y: -6}
+        - {x: -79, y: -25}
+        - {x: -79, y: -45}
+        - {x: -75, y: -50}
+        - {x: -59, y: -72}
+        - {x: -45, y: -76}
+        - {x: -35, y: -70}
+        - {x: -32, y: -79}
+        - {x: -11, y: -79}
+        - {x: 2, y: -66}
+        - {x: 8, y: -72}
+        - {x: 20, y: -77}
+        - {x: -23, y: -53}
+        - {x: -23, y: -47}
+        - {x: -22, y: -54}
+        - {x: -23, y: -54}
+        - {x: -26, y: -56}
+        - {x: -25, y: -56}
+        - {x: 29, y: 64}
+        - {x: 26, y: 70}
+        - {x: 55, y: 70}
+        - {x: 55, y: 61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 320
+        width: 248
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -69}
+        - {x: -124, y: 42}
+        - {x: -54, y: -96}
+      - - {x: -111, y: 87}
+        - {x: -54, y: -96}
+        - {x: -124, y: 42}
+      - - {x: -92, y: 96}
+        - {x: -54, y: -96}
+        - {x: -111, y: 87}
+      - - {x: 88, y: 96}
+        - {x: -54, y: -96}
+        - {x: -92, y: 96}
+      - - {x: 70, y: -96}
+        - {x: -54, y: -96}
+        - {x: 88, y: 96}
+      - - {x: 122, y: -75}
+        - {x: 70, y: -96}
+        - {x: 88, y: 96}
+      - - {x: 124, y: 59}
+        - {x: 122, y: -75}
+        - {x: 88, y: 96}
+      - - {x: 124, y: -72}
+        - {x: 122, y: -75}
+        - {x: 124, y: 59}
+      physicsShape:
+      - - {x: 51, y: -72.99999}
+        - {x: 57, y: -65}
+        - {x: 63, y: -66.99999}
+        - {x: 82, y: -66.99999}
+        - {x: 91.99999, y: -62}
+        - {x: 101, y: -50}
+        - {x: 103, y: -25}
+        - {x: 106, y: -18}
+        - {x: 106, y: -4}
+        - {x: 97, y: 8}
+        - {x: 94, y: 9}
+        - {x: 78, y: 8}
+        - {x: 81, y: 47}
+        - {x: 85.99999, y: 54}
+        - {x: 84, y: 63}
+        - {x: 21, y: 77}
+        - {x: 17, y: 79}
+        - {x: -8, y: 79}
+        - {x: -21, y: 78}
+        - {x: -44, y: 63}
+        - {x: -75, y: 51}
+        - {x: -78, y: 48}
+        - {x: -75, y: 38}
+        - {x: -69, y: 26}
+        - {x: -81, y: 26}
+        - {x: -91.99999, y: 24}
+        - {x: -106, y: 12}
+        - {x: -109, y: 3}
+        - {x: -109, y: -4}
+        - {x: -108, y: -21}
+        - {x: -102, y: -29}
+        - {x: -91.99999, y: -31}
+        - {x: -90, y: -41}
+        - {x: -82, y: -43}
+        - {x: -66, y: -44}
+        - {x: -59, y: -55}
+        - {x: -42, y: -63}
+        - {x: -28, y: -61}
+        - {x: -18, y: -56}
+        - {x: -12, y: -62}
+        - {x: 0, y: -71}
+        - {x: 6, y: -79}
+        - {x: 12, y: -79.99999}
+        - {x: 25, y: -79.99999}
+        - {x: 31, y: -79}
+        - {x: 41, y: -79}
+        - {x: 46, y: -77}
+        - {x: 35, y: -55}
+        - {x: 33, y: -53}
+        - {x: 33, y: -61}
+        - {x: 35, y: -60}
+        - {x: -75, y: -22}
+        - {x: -77, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconGem_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 828
+        width: 180
+        height: 163.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: -60.96193}
+        - {x: -90, y: 66.03806}
+        - {x: -72, y: -81.96194}
+      - - {x: -32, y: 82.03806}
+        - {x: -72, y: -81.96194}
+        - {x: -90, y: 66.03806}
+      - - {x: 20, y: -81.96194}
+        - {x: -72, y: -81.96194}
+        - {x: -32, y: 82.03806}
+      - - {x: 63, y: 82.03806}
+        - {x: 20, y: -81.96194}
+        - {x: -32, y: 82.03806}
+      - - {x: 67, y: -72.96194}
+        - {x: 20, y: -81.96194}
+        - {x: 63, y: 82.03806}
+      - - {x: 78, y: 73.03806}
+        - {x: 67, y: -72.96194}
+        - {x: 63, y: 82.03806}
+      - - {x: 90, y: -51.96193}
+        - {x: 67, y: -72.96194}
+        - {x: 78, y: 73.03806}
+      - - {x: 90, y: 28.03807}
+        - {x: 90, y: -51.96193}
+        - {x: 78, y: 73.03806}
+      physicsShape:
+      - - {x: 19, y: -56.96193}
+        - {x: 35, y: -40.96193}
+        - {x: 44, y: -51.96193}
+        - {x: 48, y: -52.96193}
+        - {x: 59, y: -40.96193}
+        - {x: 74, y: -19.96193}
+        - {x: 74, y: -14.96193}
+        - {x: 70, y: -7.961934}
+        - {x: 61, y: 0.03806635}
+        - {x: 56, y: 6.038066}
+        - {x: 58, y: 24.03807}
+        - {x: 61, y: 42.03807}
+        - {x: 55, y: 45.03807}
+        - {x: 30, y: 50.03807}
+        - {x: 29, y: 55.03807}
+        - {x: 23, y: 63.03807}
+        - {x: 13, y: 64.03806}
+        - {x: -3, y: 64.03806}
+        - {x: -14, y: 60.03806}
+        - {x: -16, y: 55.03807}
+        - {x: -28, y: 52.03807}
+        - {x: -42, y: 50.03807}
+        - {x: -51, y: 44.03807}
+        - {x: -72.99999, y: 37.03807}
+        - {x: -75, y: 31.03807}
+        - {x: -75, y: 19.03807}
+        - {x: -68, y: 3.038066}
+        - {x: -66.99999, y: -8.961934}
+        - {x: -70, y: -17.96193}
+        - {x: -64, y: -28.96193}
+        - {x: -72, y: -34.96193}
+        - {x: -72.99999, y: -43.96193}
+        - {x: -54, y: -56.96193}
+        - {x: -39, y: -66.96193}
+        - {x: -34, y: -66.96193}
+        - {x: -26, y: -58.96193}
+        - {x: -9.999999, y: -61.96193}
+        - {x: -1, y: -63.96193}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconGem_6: 21300012
+      IconGem_4: 21300008
+      IconGem_10: 21300020
+      IconGem_5: 21300010
+      IconGem_2: 21300004
+      IconGem_9: 21300018
+      IconGem_8: 21300016
+      IconGem_3: 21300006
+      IconGem_11: 21300022
+      IconGem_1: 21300002
+      IconGem_0: 21300000
+      IconGem_7: 21300014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
